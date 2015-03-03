@@ -10,5 +10,7 @@ package com.wakaleo.gameoflife.domain;
  * @author RY Jin
  */
 public class test {
-    
+    public test(){
+       
+    }
 }
